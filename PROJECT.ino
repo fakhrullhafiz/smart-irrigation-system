@@ -1,3 +1,4 @@
+//PRACTICE MAKING NEW COMMIT AND PUSH
 const int relayPin = 5;          // Output pin for the relay
 const int waterSensorPin = 6;    // Input pin for the soil moisture sensor
 const int moistureAnalogPin = A0; // Analog input pin for the soil moisture sensor
